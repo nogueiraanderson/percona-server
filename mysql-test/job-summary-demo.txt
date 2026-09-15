@@ -1,1 +1,1 @@
-demo file for the job summary of the commit-subject check
+demo file, second revision
